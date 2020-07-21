@@ -1,2 +1,2 @@
-# rainbow_components
-Seperate implementations of the deep reinforcement learning rainbow components.
+# Rainbow
+Implementing the components of the deep reinforcement learning algorithm Rainbow.
