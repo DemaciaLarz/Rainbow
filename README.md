@@ -1,3 +1,3 @@
 # Rainbow
 
-![](images/result.png)
+![hej](images/result.png)
