@@ -19,7 +19,7 @@ The environment of choice landed on MountainCar in OpenAI gym, more that below.
 
 Here follows the articles of each respective contribution to Rainbow. During this project i managed to implement all of them except NoisyDQN.
 
-* Rainbow: 
+* Rainbow: [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
 * Original DQN: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * Double DQN: [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
 * Multi-step DQN (Sutton Barto RL textbook): [Sutton and Barto RL textbook chapter 7](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
