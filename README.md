@@ -9,7 +9,8 @@
 3. Problem description
 4. RL principles
 5. Implementation notes
-6. Todo
+6. Results
+7. Todo
 
 ## 1 - Introduction
 
@@ -64,7 +65,11 @@ When it comes to state representation, since we are dealing with a continuous st
 
 There are some implementation notes to be found in a notebook [here](https://github.com/DemaciaLarz/Rainbow/blob/master/Implementation_Notes.ipynb)
 
-### Todo
+## 6 - Results
+
+You can find plots of all the results [here](https://github.com/DemaciaLarz/Rainbow/blob/master/Results.ipynb).
+
+## 7 - Todo
 
 * Implement the Noisy DQN.
 * Put it all together and implement Rainbow from scratch.
