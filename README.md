@@ -16,7 +16,7 @@
 
 The objective was to implement the components of the deep reinforcement learning algorithm Rainbow separately, and then to put those pieces together from scratch into the actual Rainbow.
 
-The environment of choice landed on MountainCar in OpenAI gym, more that below.
+The environment of choice landed on MountainCar in OpenAI gym, more on that below.
 
 Here follows the articles of each respective contribution to Rainbow. During this project i managed to implement all of them except NoisyDQN.
 
