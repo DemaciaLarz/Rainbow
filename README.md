@@ -47,7 +47,7 @@ The discrete MountainCar problem can be described as follows.
 
 A car moves along a 1-dimensional space by moving forward, backward, or not at all. The goal is to get to the top of the hill. The engine is not strong enough to make it in one try though, so the agent needs to deviate from the goal in order to build up some momentum.
 
-The problem can be formulated as a Markov decision problem, where the state is continuous and represented by a 2-dimensional vector, which in turn represents the car's position and velocity. The action space is discrete and consists of 3 actions. The reward is -1 for each timestep until the goal is reached, (then it's 0?). The problem is naturally divided into episodes with a terminal state either when the goal is reached, or when 200 timesteps have passed.
+The problem can be formulated as a Markov decision problem, where the state is continuous and represented by a 2-dimensional vector, which in turn represents the car's position and velocity. The action space is discrete and consists of 3 actions. The reward is -1 for each timestep until the goal is reached. The problem is naturally divided into episodes with a terminal state either when the goal is reached, or when 200 timesteps have passed.
 
 ## 4 - RL principles
 
