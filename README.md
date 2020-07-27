@@ -33,7 +33,7 @@ Here follows the articles of each respective contribution to Rainbow. During thi
 
 In Train.ipynb lies the necessary parts to train all of the agents, simply enter the agent name of choice, set hyperparameters and run the code.
 
-In Helpers.ipynb lies the core components of these algorithms., here is a short description of its contents:
+In Helpers.ipynb lies the core components of these algorithms. Here is a short description of its contents:
 * DqnAgents class: methods that build the various networks aswell as all of the algorithms parameter update procedures.
 * SumTree class: builds the sum tree data structure that is used by the prioritized experience replay.
 * PrioritizedExperienceReplay class: methods implementing the prioritized replay.
